@@ -1,10 +1,6 @@
 # Visitor pattern #
 A visitor pattern separate the data structure and the algorithm which operates on those.
 
-## Implementation ##
-In this example, we have a simple array structure of stores. Different visitors can go on those stores.
-According to their profile each visitor will do something else with the visited store.
-
 ## UML ##
 
                              +-------"I"--------+                                          +--------"I"--------+
