@@ -3,18 +3,18 @@ The adapter pattern is useful with an existing system that you are unable to cha
 Be careful with possible complexity and resources overhead (CPU/memory).
 
 ## UML ##
-        +------"I"-----+                          +-----"I"-----+
+        +--------------+                          +-----"I"-----+
         |  SquarePlug  |                          |  RoundPlug  |
         +--------------+                          +-------------+
         | +saySquare() |                          | +sayRound() |
         +-------+------+                          +------^------+
                 ^                                       /_\
-                |                                        |
-                |                                        |
-                |                                        |
-                |                    +-------------------+-------------+
-                |                    |                                 |
-                |                    |                                 |
+                |                                        :
+                |                                        :
+                |                                        :
+                |                    +...................+.............+
+                |                    :                                 :
+                |                    :                                 :
                 |   +----------------+---------------+         +-------+-------+
                 |   |        SquareToRoundPlug       |         | RoundPlugImpl |
                 |   +--------------------------------+         +---------------+

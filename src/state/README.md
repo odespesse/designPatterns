@@ -3,7 +3,7 @@ The state pattern implements a kind of finite state machine (FSM) where the obje
 
 ## UML ##
 
-    +------------------+                        +----------+
+    +------------------+                        +---"I"----+
     |      Door        |----------------------->|  State   |
     +------------------+                        +----------+
     | +state: State    |                        | +open()  |
