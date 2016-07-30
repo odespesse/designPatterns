@@ -1,5 +1,5 @@
 # Visitor pattern #
-A visitor pattern separate the data structure and the algorithm which operates on those.
+A visitor pattern separates the data structure and the algorithm which operates on it.
 
 ## UML ##
 

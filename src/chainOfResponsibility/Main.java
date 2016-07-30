@@ -1,4 +1,4 @@
-package chainOfResponsability;
+package chainOfResponsibility;
 
 public class Main {
 

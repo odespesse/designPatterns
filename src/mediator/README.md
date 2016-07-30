@@ -1,5 +1,5 @@
 # Mediator pattern #
-The mediator pattern encapsulate communications between a set of objects reducing dependencies between each others
+The mediator pattern encapsulates communications between a set of objects reducing dependencies between each other
 
 ## UML ##
         +--------------"I"--------------+                                          +-----------"A"-----------+

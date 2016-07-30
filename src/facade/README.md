@@ -1,5 +1,5 @@
 # Facade pattern #
-The facade pattern create an higher level interface by combining several objects
+The facade pattern creates a higher level interface by combining several objects
 
 ## UML ##
 

@@ -1,5 +1,5 @@
 # State pattern #
-The state pattern implement a kind of finite state machine (FSM) where the object behavior change according to its internal state.
+The state pattern implements a kind of finite state machine (FSM) where the object behavior change according to its internal state.
 
 ## UML ##
 

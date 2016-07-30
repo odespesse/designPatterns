@@ -1,6 +1,6 @@
 # Builder pattern #
-The builder pattern move the construction logic to a dedicated object because it is too complex to just fit in the constructor.
-Could be useful if you don't have every piece of information like to instantiate the object for instance when you have request several remote services.
+The builder pattern moves the construction logic to a dedicated object because it is too complex to just fit in the constructor.
+It could be useful if you don't have every piece of information like to instantiate an object where you have query several remote services first.
 
 ## UML ##
             +---------------------------+             +-----------------------------------+

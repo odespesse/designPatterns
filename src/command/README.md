@@ -1,5 +1,5 @@
 # Command pattern #
-The command pattern is a way to decouple an action from the executor by wrapping it in a generic object.
+The command pattern is a way to separate an action from the executor by wrapping it in a generic object.
 
 ## UML ##
                         +---------------------------+             +----"I"-----+

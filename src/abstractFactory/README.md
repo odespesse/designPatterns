@@ -1,5 +1,5 @@
 # Abstract factory pattern #
-The abstract factory pattern is a way specify how several factories are defined by their API.
+The abstract factory pattern is a way to specify how several factories are defined by their API.
 Basically it allows to create hierarchies of objects linked by the same interfaces.
 
 ## UML ##

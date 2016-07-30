@@ -1,5 +1,5 @@
 # Composite pattern #
-The composite pattern standardize the way to manipulate a group or a single object.
+The composite pattern standardizes the way to manipulate a group or a single object.
 They are tied up in tree like data structure.
 
 ## UML ##

@@ -1,5 +1,5 @@
 # Prototype pattern #
-The prototype pattern create a new object based on an existing instance used as a prototype
+The prototype pattern creates a new object based on an existing instance used as a prototype
 
 ## UML ##
         +---------"I"---------+

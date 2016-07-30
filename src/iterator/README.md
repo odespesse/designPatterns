@@ -1,5 +1,5 @@
 # Iterator pattern #
-The iterator pattern give a way to access an aggregate like object without showing its internal details
+The iterator pattern gives a way to access an aggregate like object without showing its internal details
 
 ## UML ##
                                                       +---------------------+

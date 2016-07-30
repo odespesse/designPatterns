@@ -1,5 +1,5 @@
 # Command pattern #
-The bridge pattern allow to have both variation in implementations and in abstractions by putting them in two distincts hierarchies.
+The bridge pattern allows to have both variations in implementations and in abstractions by putting them in two distinct hierarchies.
 
 ## UML ##
                                 +------"A"------+                                +------"I"-------+           

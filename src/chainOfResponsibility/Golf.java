@@ -1,6 +1,6 @@
-package chainOfResponsability;
+package chainOfResponsibility;
 
-import chainOfResponsability.Main.Ball;
+import chainOfResponsibility.Main.Ball;
 
 public class Golf extends Player {
 

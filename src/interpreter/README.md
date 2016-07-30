@@ -1,5 +1,5 @@
 # Interpreter pattern #
-The interpreter pattern is a way to define a language grammar and to interpret it.
+The interpreter pattern is a way to define a language's grammar and to interpret it.
 
 ## UML ##
 

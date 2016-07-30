@@ -1,5 +1,5 @@
 # Factory method pattern #
-The factory method pattern allow to create an object without knowing its implementation and just using its interface
+The factory method pattern allows to create an object without knowing its implementation and just using its interface
 
 ## UML ##
                                                                           +------+

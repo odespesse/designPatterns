@@ -1,5 +1,5 @@
 # Adapter pattern #
-The adapter pattern is useful with an existing system that your are unable to change but which must fit in your new code.
+The adapter pattern is useful with an existing system that you are unable to change, but which must fit in your new code.
 Be careful with possible complexity and resources overhead (CPU/memory).
 
 ## UML ##
