@@ -1,4 +1,4 @@
 designPatterns
 ==============
 
-Design Patterns for reference
+The 23 design Patterns for reference in Java
